@@ -1,0 +1,20 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "",
+                "Name": "Gemini"
+            }
+        ],
+        "Category": "Graphics",
+        "Description": "A widget that mimics the blackwall pattern from Cyberpunk 2077.",
+        "Icon": "preferences-desktop-theme-window-decorations",
+        "Id": "com.gemini.blackwall",
+        "Name": "Blackwall",
+        "Version": "0.1",
+        "Website": ""
+    },
+    "X-Plasma-API-Minimum-Version": "6.0",
+    "X-Plasma-MainScript": "ui/ConfigGeneral.qml"
+}

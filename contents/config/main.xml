@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kcfg xmlns="http://www.kde.org/standards/kcfg/1.0"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.kde.org/standards/kcfg/1.0
+      http://www.kde.org/standards/kcfg/1.0/kcfg.xsd" >
+    <kcfgfile name=""/>
+    <group name="General">
+        <entry name="glyphSize" type="Int">
+            <label>The size of the glyphs</label>
+            <default>16</default>
+        </entry>
+        <entry name="shapeCount" type="Int">
+            <label>The number of shapes</label>
+            <default>50</default>
+        </entry>
+        <entry name="color1" type="Color">
+            <label>Primary Color</label>
+            <default>#FF0000</default>
+        </entry>
+        <entry name="color2" type="Color">
+            <label>Secondary Color</label>
+            <default>#8B0000</default>
+        </entry>
+        <entry name="lineWidth" type="Int">
+            <label>Line Width</label>
+            <default>2</default>
+        </entry>
+        <entry name="iterations" type="Int">
+            <label>Iterations</label>
+            <default>3</default>
+        </entry>
+        <entry name="speed" type="Int">
+            <label>Animation Speed (ms)</label>
+            <default>66</default>
+        </entry>
+    </group>
+</kcfg>
