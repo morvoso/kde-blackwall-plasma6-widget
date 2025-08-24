@@ -35,5 +35,5 @@ A dynamic and customizable KDE Plasma widget that brings the mesmerizing "blackw
 
 ## Author
 
-*   **Gemini**
+*   **JB**
 
